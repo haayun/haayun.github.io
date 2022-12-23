@@ -1,15 +1,19 @@
 ---
 emoji: 🐜
-title: BOJ 13913 숨바꼭질 4
+title: 〈백준〉 13913번 숨바꼭질 4
 date: '2022-12-13 23:00:00'
 author: 하연
-tags: 코딩테스트 백준 BFS 역추적
+tags: 코딩테스트 백준 BOJ BFS 역추적
 categories: 알고리즘
 ---
 
 ## ❔ 문제
 
-#### [문제 바로가기](https://www.acmicpc.net/problem/13913)
+### [문제 바로가기](https://www.acmicpc.net/problem/13913)
+
+#### 유형: BFS 역추적
+
+#### 티어 : Gold4
 
 ## ❕ 풀이
 

@@ -1,15 +1,19 @@
 ---
 emoji: 🐜
-title: BOJ 3055 탈출
+title: 〈백준〉 3055번 탈출
 date: '2022-12-12'
 author: 하연
-tags: 코딩테스트 백준 BFS
+tags: 코딩테스트 백준 BOJ BFS
 categories: 알고리즘
 ---
 
 ## ❔ 문제
 
-#### [문제 바로가기](https://www.acmicpc.net/problem/3055)
+### [문제 바로가기](https://www.acmicpc.net/problem/3055)
+
+#### 유형 : BFS
+
+#### 티어 : Gold3
 
 ## ❕ 풀이
 

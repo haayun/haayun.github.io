@@ -1,15 +1,19 @@
 ---
 emoji: 🐜
-title: BOJ 13549 숨바꼭질 3
+title: 〈백준〉 13549번 숨바꼭질 3
 date: '2022-12-13'
 author: 하연
-tags: 코딩테스트 백준 다익스트라
+tags: 코딩테스트 백준 BOJ 다익스트라
 categories: 알고리즘
 ---
 
 ## ❔ 문제
 
-#### [문제 바로가기](https://www.acmicpc.net/problem/13549)
+### [문제 바로가기](https://www.acmicpc.net/problem/13549)
+
+#### 유형 : 다익스트라
+
+#### 티어 : Gold5
 
 ## ❕ 풀이
 
